@@ -3,7 +3,7 @@ html,body{
     height:100%;
 }
 body {
-background-image: url(../Creepy.png);
+background-image: url(../Assets/Creepy.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-opacity: 0.5;

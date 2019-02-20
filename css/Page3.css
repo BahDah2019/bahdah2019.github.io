@@ -3,7 +3,7 @@ html,body{
     height:100%;
 }
 body {
-background-image: url(../Math2.png);
+background-image: url(../Assets/Math2.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-opacity: 0.5;
