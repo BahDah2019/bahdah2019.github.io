@@ -3,7 +3,7 @@ html,body{
     height:100%;
 }
 body {
-background-image: url(C:/Users/danellep/Desktop/NIkki/Assets/Travel.png);
+background-image: url(../Travel.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-opacity: 0.5;
