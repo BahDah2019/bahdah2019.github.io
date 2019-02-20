@@ -1,0 +1,13 @@
+function myFunction() {
+  var x, text;
+
+  x = document.getElementById("inputNumber").value;
+
+  if (x != 13) {
+    alert("You got it Wrong! Maybe try a calculator?");
+	document.getElementById("inputNumber").value = "";
+	return false;
+  } else {
+    document.page3.submit();
+  }
+}
