@@ -4,7 +4,7 @@ function myFunction() {
   x = document.getElementById("inputNumber").value;
 
   if (x != 13) {
-    alert("You got it Wrong! Maybe try a calculator?");
+    alert("You got it Wrong Again!\n\nBuy a new Calculator!!!");
 	document.getElementById("inputNumber").value = "";
 	return false;
   } else {

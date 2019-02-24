@@ -2,28 +2,21 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style type="text/css">
-html,body{
-    width:100%;
-    height:100%;
-}
-body {
-background-image: url(C:/Users/danellep/Desktop/NIkki/Assets/Map.png);
-background-repeat: no-repeat;
-background-size: cover;
-background-opacity: 0.5;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="..\css\Page8.css">
 </head>
 <body align="center">
-
+<script src="..\scripts\Page8.js"></script>
 <h1>Look how far you've come...</h1>
 <p> Hows a xoxox before I give you the information you need to continue? </p>
 
-<form action="C:\Users\danellep\Desktop\NIkki\Pages\Page9.html">
-<input type="text"><br>
-<input type="text"><br>
-<input type="submit" value="Next">
+<form name="page8" action="..\Pages\Page9.html">
+        <input id="inputTextS" class="mytext" type="text"> S
+        <br/>
+        <br/>
+        <input id="inputTextE" class="mytext" type="text"> E
+        <br/>
+        <br/>
+        <button class="mybutton" id="submit" value="submit" onclick="return myFunction()">Next</button>
 </form>
 </body>
 </html>

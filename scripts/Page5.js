@@ -3,8 +3,8 @@ function myFunction5_1() {
 
   x = document.getElementById("inputText").value;
 
-  if (x != "Summer clothes") {
-    alert("You got it Wrong :(.");
+  if (x.toLowerCase() != "summer clothes") {
+    alert("Damn... Lets Think about it.\n\n Sun + Clothes what could it be?");
 	document.getElementById("inputText").value = "";
 	return false;
   } else {
@@ -16,9 +16,9 @@ function myFunction5_2() {
   var x, text;
 
   x = document.getElementById("inputText").value;
-
-  if (x != "Sense of Humour") {
-    alert("You got it Wrong :(.");
+  
+  if (x.toLowerCase() != "sense of humour") {
+    alert("Jokes aside... thought you had this...");
 	document.getElementById("inputText").value = "";
 	return false;
   } else {
@@ -31,8 +31,8 @@ function myFunction5_3() {
 
   x = document.getElementById("inputText").value;
 
-  if (x != "Ethan Hunts Gameface") {
-    alert("You got it Wrong :(.");
+  if (x.toLowerCase() != "ethan hunts gameface") {
+    alert("What a 'Gameface' it is...");
 	document.getElementById("inputText").value = "";
 	return false;
   } else {
@@ -45,8 +45,8 @@ function myFunction5_4() {
 
   x = document.getElementById("inputText").value;
 
-  if (x != "James Bond Passion for Love") {
-    alert("You got it Wrong :(.");
+  if (x.toLowerCase()!= "james bond passion for love") {
+    alert("For the passion of love... you got this!!!");
 	document.getElementById("inputText").value = "";
 	return false;
   } else {

@@ -3,15 +3,25 @@ html,body{
     height:100%;
 }
 body {
-background-image: url(../Assets/Chalkboard.jpg);
+background-image: url(../Assets/Animal.png);
 background-repeat: no-repeat;
 background-size: cover;
 }
 h1{
-font-size:50px; 
+font-size:50px;
 font-family:Lucida Console;
-color:#008CBA;
+color:rgb(47, 50, 255);
 text-shadow: -2px 0 black, 0 2px black, 1px 0 white, 0 -1px white;
+}
+h2{
+    font-size:18px;
+    font-family:Lucida Console;
+    color:rgb(187, 28, 107);
+}
+h3{
+font-size:22px;
+font-family:Lucida Console;
+color:green;
 }
 p{
 font-size:18px;
@@ -28,13 +38,5 @@ border: none;
 border-radius: 3px;
 font-size:22pt;
 height: 36px;
-width: 100px;
-}.myAlphabutton {
-    background-color: green;
-    color: white;
-    border: none;
-    border-radius: 3px;
-    font-size:16pt;
-    height: 30px;
-    width: 30px;
-    }
+width: 130px;
+}
