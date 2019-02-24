@@ -31,7 +31,7 @@ function myFunction5_3() {
 
   x = document.getElementById("inputText").value;
 
-  if (x.toLowerCase() != "ethan hunts gameface") {
+  if (x.toLowerCase() != "ethan hunt's game face") {
     alert("What a 'Gameface' it is...");
 	document.getElementById("inputText").value = "";
 	return false;
@@ -45,7 +45,7 @@ function myFunction5_4() {
 
   x = document.getElementById("inputText").value;
 
-  if (x.toLowerCase()!= "james bond passion for love") {
+  if (x.toLowerCase()!= "james bond's passion for love") {
     alert("For the passion of love... you got this!!!");
 	document.getElementById("inputText").value = "";
 	return false;

@@ -7,9 +7,9 @@ background-image: url(../Assets/Chalkboard.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
-h1{
-font-size:50px; 
-font-family:Lucida Console;
+h2{
+font-size:30px; 
+font-family:"Comic Sans MS", cursive, sans-serif;
 color:#008CBA;
 text-shadow: -2px 0 black, 0 2px black, 1px 0 white, 0 -1px white;
 }
@@ -17,10 +17,21 @@ p{
 font-size:18px;
 }
 .mytext {
-font-size:30pt;
+font-size:22pt;
 height: 36px;
 width: 100px;
+border: none;
+border-radius: 3px;
+width: 250px;
 }
+.mytext1 {
+    font-size:22pt;
+    height: 36px;
+    width: 100px;
+    border: none;
+    border-radius: 3px;
+    width: 310px;
+    }
 .mybutton {
 background-color: #008CBA;
 color: white;
@@ -29,12 +40,22 @@ border-radius: 3px;
 font-size:22pt;
 height: 36px;
 width: 100px;
-}.myAlphabutton {
+}
+.myAlphabutton {
     background-color: green;
     color: white;
     border: none;
     border-radius: 3px;
-    font-size:16pt;
-    height: 30px;
-    width: 30px;
+    font-size:14pt;
+    height: 25px;
+    width: 25px;
     }
+    .myAlphabutton:disabled {
+        background-color: gray;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        font-size:14pt;
+        height: 25px;
+        width: 25px;
+        }
