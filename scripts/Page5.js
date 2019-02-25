@@ -18,7 +18,7 @@ function myFunction5_2() {
   x = document.getElementById("inputText").value;
   
   if (x.toLowerCase() != "sense of humour") {
-    alert("Jokes aside... thought you had this...");
+    alert("Jokes aside... thought you had this...\n\n Where is your S _ _ _ _   _ _   _ _ _ _ _ _");
 	document.getElementById("inputText").value = "";
 	return false;
   } else {
@@ -32,7 +32,7 @@ function myFunction5_3() {
   x = document.getElementById("inputText").value;
 
   if (x.toLowerCase() != "ethan hunt's game face") {
-    alert("What a 'Gameface' it is...");
+    alert("Mission impossible Mr...?\n\nWhere is your 'game face'");
 	document.getElementById("inputText").value = "";
 	return false;
   } else {
