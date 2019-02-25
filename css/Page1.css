@@ -8,16 +8,22 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 h1{
-font-size:35px;
-font-family:Lucida Console;
-color:white;
-text-shadow: -1px 0 grey, 0 1px grey, 1px 0 white, 0 -1px white;
+font-size:32px;
+font-family:"DejaVu Sans Mono" , monospace;
+color:black;
+text-shadow: -1px 0 rgb(21, 238, 57), 0 1px rgb(21, 238, 57);
 }
 h2{
-font-size:25px;
-font-family:"Comic Sans MS", cursive, sans-serif;
-color:rgb(211, 125, 12);
-text-shadow: -1px 0 whitesmoke, 0 1px whitesmoke, 1px 0 whitesmoke, 0 -1px whitesmoke;
+font-size:36px;
+font-family:"Papyrus", fantasy;
+color:whitesmoke;
+text-shadow: -2px 0 whitesmoke, 0 2px whitesmoke;
+}
+h3{
+font-size:36px;
+font-family:"Harrington", fantasy;
+color:black;
+text-shadow: -2px 0 rgb(55, 164, 207), 0 2px rgb(55, 164, 207), 2px 0  rgb(55, 164, 207), 0 -2px  rgb(55, 164, 207);
 }
 .mybuttonyes {
 background-color: #008CBA;

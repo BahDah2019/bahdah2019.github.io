@@ -8,19 +8,18 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 h1{
-font-size:50px;
-font-family:"Comic Sans MS", cursive, sans-serif;
-color:#008CBA;
-text-shadow: -2px 0 black, 0 2px black, 1px 0 white, 0 -1px white;
-}
-p{
-font-size:18px;
+font-size:45px;
+font-family:"Lucida Handwriting", cursive;
+color:rgb(0, 0, 0);
+text-shadow: -2px 0 white, 0 2px white, 1px 0 white, 0 -1px white;
 }
 .mytext {
-font-size:30pt;
+font-size:26pt;
+text-align: center;
 height: 36px;
 width: 100px;
-border-radius: 3px;
+border-color: black; 
+border-radius: 1px;
 }
 .mybutton {
 background-color: #008CBA;
@@ -29,5 +28,5 @@ border: none;
 border-radius: 5px;
 font-size:22pt;
 height: 36px;
-width: 100px;
+width: 104px;
 }
