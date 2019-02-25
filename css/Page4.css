@@ -8,25 +8,22 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 h1{
-font-size:40px;
+font-size:38px;
 font-family:"Brush Script MT", cursive;
 color:#008CBA;
 text-shadow: -2px 0 white, 0 2px white, 1px 0 white, 0 -1px white;
 }
 h2{
-font-size:24px;
+font-size:22px;
 font-family:"Harrington", fantasy;
 color:rgb(156, 1, 79);
 text-shadow: -1px 0 rgb(253, 108, 234), 0 1px rgb(253, 108, 234), 1px 0 white, 0 -1px white;
 }
 h3{
-font-size:24px;
+font-size:22px;
 font-family:"Brush Script MT", cursive;
-color:rgb(204, 121, 13);
+color:#008CBA;
 text-shadow: -2px 0 white, 0 2px white, 1px 0 white, 0 -1px white;
-}
-p{
-font-size:18px;
 }
 .mytext {
 font-size:30pt;
