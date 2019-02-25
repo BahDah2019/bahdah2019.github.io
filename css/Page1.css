@@ -19,12 +19,6 @@ font-family:"Papyrus", fantasy;
 color:whitesmoke;
 text-shadow: -2px 0 whitesmoke, 0 2px whitesmoke;
 }
-h3{
-font-size:32px;
-font-family:"Harrington", fantasy;
-color:black;
-text-shadow: -2px 0 rgb(55, 164, 207), 0 2px rgb(55, 164, 207), 2px 0  rgb(55, 164, 207), 0 -2px  rgb(55, 164, 207);
-}
 .mybuttonyes {
 background-color: #008CBA;
 color: white;
