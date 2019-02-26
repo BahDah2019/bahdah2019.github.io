@@ -19,6 +19,12 @@ font-family:"Papyrus", fantasy;
 color:whitesmoke;
 text-shadow: -2px 0 whitesmoke, 0 2px whitesmoke;
 }
+h3{
+font-size:32px;
+font-family:"DejaVu Sans Mono" , monospace;
+color:wheat;
+text-shadow: -1px 0 black, 0 1px black;
+}
 .mybuttonyes {
 background-color: #008CBA;
 color: white;
