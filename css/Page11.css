@@ -6,39 +6,6 @@ body {
 background-repeat: no-repeat;
 background-size: cover;
 }
-h1{
-font-size:50px;
-font-family:Lucida Console;
-color:rgb(47, 50, 255);
-text-shadow: -2px 0 black, 0 2px black, 1px 0 white, 0 -1px white;
-}
-h2{
-    font-size:18px;
-    font-family:Lucida Console;
-    color:rgb(187, 28, 107);
-}
-h3{
-font-size:22px;
-font-family:Lucida Console;
-color:green;
-}
-p{
-font-size:18px;
-}
-.mytext {
-    font-size:26pt;
-    text-align: center;
-    height: 36px;
-    width: 100px;
-    border-color: black; 
-    border-radius: 1px;
-}
-.mybutton {
-background-color: #008CBA;
-color: white;
-border: none;
-border-radius: 3px;
-font-size:22pt;
-height: 36px;
-width: 130px;
-}
+.image {
+    border-radius: 6px;
+        }

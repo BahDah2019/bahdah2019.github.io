@@ -20,8 +20,8 @@ font-size:22pt;
 text-align: center;
 height: 36px;
 width: 100px;
-border: none;
-border-radius: 3px;
+border-color: black; 
+border-radius: 1px;
 width: 250px;
 }
 .mytext1 {
@@ -29,8 +29,8 @@ width: 250px;
     text-align: center;
     height: 36px;
     width: 100px;
-    border: none;
-    border-radius: 3px;
+    border-color: black; 
+    border-radius: 1px;
     width: 310px;
     }
 .mybutton {
