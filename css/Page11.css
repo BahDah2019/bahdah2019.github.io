@@ -3,7 +3,6 @@ html,body{
     height:100%;
 }
 body {
-background-image: url(../Assets/Animal.png);
 background-repeat: no-repeat;
 background-size: cover;
 }
