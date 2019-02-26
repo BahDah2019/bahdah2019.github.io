@@ -8,31 +8,16 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 h1{
-font-size:50px;
-font-family:Lucida Console;
-color:rgb(47, 50, 255);
-text-shadow: -2px 0 black, 0 2px black, 1px 0 white, 0 -1px white;
-}
-h2{
-    font-size:18px;
-    font-family:Lucida Console;
-    color:rgb(187, 28, 107);
+font-size:38px;
+font-family:"DejaVu Sans Mono", monospace;
+color:greenyellow;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 h3{
-font-size:22px;
-font-family:Lucida Console;
-color:green;
-}
-p{
-font-size:18px;
-}
-.mytext {
-    font-size:26pt;
-    text-align: center;
-    height: 36px;
-    width: 100px;
-    border-color: black; 
-    border-radius: 1px;
+    font-size:18px;
+    font-family:"DejaVu Sans Mono", monospace;
+    color:black;
+    text-shadow: -2px 0 white, 0 2px white, 1px 0 white, 0 -1px white;
 }
 .mybutton {
 background-color: #008CBA;
