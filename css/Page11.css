@@ -27,9 +27,12 @@ p{
 font-size:18px;
 }
 .mytext {
-font-size:30pt;
-height: 36px;
-width: 100px;
+    font-size:26pt;
+    text-align: center;
+    height: 36px;
+    width: 100px;
+    border-color: black; 
+    border-radius: 1px;
 }
 .mybutton {
 background-color: #008CBA;

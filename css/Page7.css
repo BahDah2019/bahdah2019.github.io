@@ -18,6 +18,7 @@ font-size:18px;
 }
 .mytext {
 font-size:22pt;
+text-align: center;
 height: 36px;
 width: 100px;
 border: none;
@@ -26,6 +27,7 @@ width: 250px;
 }
 .mytext1 {
     font-size:22pt;
+    text-align: center;
     height: 36px;
     width: 100px;
     border: none;

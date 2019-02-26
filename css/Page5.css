@@ -7,6 +7,11 @@ background-image: url(../Assets/Travel.png);
 background-repeat: no-repeat;
 background-size: cover;
 }
+.bodyFiveThree {
+    background-image: url(../Assets/Game.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
 h1{
 font-size:50px;
 font-family:"Comic Sans MS", cursive, sans-serif;
@@ -17,8 +22,11 @@ p{
 font-size:18px;
 }
 .mytext {
-    font-size:16pt;
+    font-size:26pt;
+    text-align: center;
     height: 36px;
+    border-color: black; 
+    border-radius: 1px;
     width: 300px;
     }
 .mybutton {
@@ -30,3 +38,6 @@ font-size:22pt;
 height: 36px;
 width: 100px;
 }
+.image {
+    border-radius: 6px;
+        }

@@ -3,7 +3,7 @@ html,body{
     height:100%;
 }
 body {
-background-image: url(../Assets/Animal.png);
+background-image: url(../Assets/End.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -27,9 +27,12 @@ p{
 font-size:18px;
 }
 .mytext {
-font-size:30pt;
-height: 36px;
-width: 100px;
+    font-size:26pt;
+    text-align: center;
+    height: 36px;
+    width: 100px;
+    border-color: black; 
+    border-radius: 1px;
 }
 .mybutton {
 background-color: #008CBA;
