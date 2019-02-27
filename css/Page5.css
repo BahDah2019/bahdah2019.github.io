@@ -7,6 +7,11 @@ background-image: url(../Assets/Travel.png);
 background-repeat: no-repeat;
 background-size: cover;
 }
+.bodyFiveOne {
+    background-image: url(../Assets/Bridge.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   }
 .bodyFiveTwo {
     background-image: url(../Assets/Hum.jpg);
    background-repeat: no-repeat;
@@ -32,12 +37,12 @@ p{
 font-size:18px;
 }
 .mytext {
-    font-size:26pt;
+    font-size:16pt;
     text-align: center;
     height: 36px;
     border-color: black; 
     border-radius: 1px;
-    width: 300px;
+    width: 320px;
     }
 .mybutton {
 background-color: #008CBA;
