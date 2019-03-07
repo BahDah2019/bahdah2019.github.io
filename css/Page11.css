@@ -12,3 +12,6 @@ h3{
     font-family:"Lucida Calligraphy", cursive;
     color:rgb(239, 243, 184);
 }
+.image {
+    border-radius: 6px;
+        }
